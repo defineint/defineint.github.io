@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "黃紹泓"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "擅長實現自動化腳本與前後端實作"
   location         : "Taipei-Taiwan"
-  employer         : "Red Brick University"
+  employer         : "National Taipei University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "paulag3seconds@gmail.com" 
 
   # Academic websites
   academia         : # URL
